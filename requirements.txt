@@ -1,0 +1,5 @@
+Flask==3.0.3
+flask-cors==4.0.1
+transformers==4.44.2
+pydub==0.25.1
+numpy==1.26.4
